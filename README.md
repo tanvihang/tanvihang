@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvihang
 - 👀 I’m interested in ... Not sure yet, but its pretty interestin tho.
-- 🌱 I’m currently learning c and java also data structure and algorithm
+- 🌱 I’m currently learning c also data structure and algorithm
 - 💞️ I’m looking to collaborate on Myself
 - 📫 How to reach me, not sure
 
