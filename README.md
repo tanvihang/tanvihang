@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tanvihang
-- 👀 I’m interested in ... Not sure yet, but its pretty interestin tho.
-- 🌱 I’m currently learning c also data structure and algorithm
-- 💞️ I’m looking to collaborate on Myself
-- 📫 How to reach me, not sure
+- 👀 I’m interested in, __________
+- 🌱 I’m currently learning __________
+- 💞️ I’m looking to collaborate on __________
+- 📫 How to reach me, __________
 
 <!---
 tanvihang/tanvihang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
