@@ -3,7 +3,7 @@ tanvihang/tanvihang is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header]("./assets/github-header-image.png")
+![Header](./assets/github-header-image.png)
 
 <a href="https://komarev.com/ghpvc/?username=tanvihang">
   <img align="right" src="https://komarev.com/ghpvc/?username=tanvihang&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
