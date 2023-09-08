@@ -10,14 +10,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://tanvihang.com">Angus Tan</a></b>
-        </samp>
-</h3>
-
-
 <p align="center"> 
   <samp>
     <a href="https://tanvihang.github.io">「 github.io 」</a>
