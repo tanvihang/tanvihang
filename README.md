@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
+  <a href="https://leetcode.cn/u/tan-vi-hang/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="tanvihang" />
+ </a>
  <a href="https://www.linkedin.com/in/angus-tan-4b1a16208/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tanvihang"/>
  </a>
