@@ -3,7 +3,7 @@ tanvihang/tanvihang is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Header](./assets/github-header-image.png)
+
 
 <a href="https://komarev.com/ghpvc/?username=tanvihang">
   <img align="right" src="https://komarev.com/ghpvc/?username=tanvihang&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <samp>
-    <a href="https://tanvihang.github.io">「 github.io 」</a>
     <br>
     「 I am a CS Student from <b>Malaysia</b> currently studying in <b>China</b> 」
     <br>
+        <a href="https://tanvihang.github.io">「 github.io 」</a>
     <br>
   </samp>
 </p>
