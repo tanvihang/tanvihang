@@ -22,16 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="200" src="./assets/main.gif" alt="" />
-  
- ✌️ &emsp; Enjoy to do programming and designing <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: angustanworkspce@gmail.com<br/><br/>
 
-</p>
-
-<br/>
