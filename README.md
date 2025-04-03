@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> 
   <samp>
     <br>
-    「 Hi i'm Angus Tan, check out my github.io to learn more about me. 」
+    「 Hi i'm Angus Tan, check out my website to learn more about me. 」
     <br>
-        <a href="https://tanvihang.github.io">「 github.io 」</a>
+        <a href="https://tanvihang.github.io">「 angustan.com 」</a>
     <br>
   </samp>
 </p>
