@@ -17,15 +17,15 @@ You can click the Preview link to take a look at your changes.
      Hi i'm Angus Tan, <b>creative web & app dev</b> based in Malaysia 🇲🇾.
     <br>
     <br>
-    <img src="assets/Malaysia.jpeg" alt="Malaysia" width="300" height="auto" style="border-radius: 2px;" />
+    <img src="assets/Malaysia.jpeg" alt="Malaysia" width="300" height="auto" style="border-radius: 8px;" />
     <br>
     <br>
-        <a href="https://linkedin.com/in/angustan2001">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <a href="https://tanvihang.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat&logo=globe&logoColor=white" alt="Portfolio" />
         </a>
     <br>
-        <a href="https://tanvihang.github.io">
-          <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=globe&logoColor=white" alt="Portfolio" />
+        <a href="https://linkedin.com/in/angustan2001" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
     <br>
     <br>
