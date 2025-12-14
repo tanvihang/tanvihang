@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <br>
     「 Hi i'm Angus Tan, check out my website to learn more about me. 」
     <br>
-        <a href="https://tanvihang.github.io">「 angustan.com 」</a>
+        <a href="https://tanvihang.github.io">「 angustan.space 」</a>
     <br>
   </samp>
 </p>
