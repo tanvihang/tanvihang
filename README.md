@@ -20,13 +20,14 @@ You can click the Preview link to take a look at your changes.
     <img src="assets/Malaysia.jpeg" alt="Malaysia" width="300" height="auto" style="border-radius: 2px;" />
     <br>
     <br>
-        <a href="https://tanvihang.github.io">
-          <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=globe&logoColor=white" alt="Portfolio" />
-        </a>
-        &nbsp;
         <a href="https://linkedin.com/in/tanvihang">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
+        &nbsp;
+        <a href="https://tanvihang.github.io">
+          <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=globe&logoColor=white" alt="Portfolio" />
+        </a>
+
     <br>
     <br>
     
