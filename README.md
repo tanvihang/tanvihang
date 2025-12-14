@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <img src="assets/Malaysia.jpeg" alt="Malaysia" width="300" height="auto" style="border-radius: 2px;" />
     <br>
     <br>
-        <a href="https://linkedin.com/in/tanvihang">
+        <a href="https://linkedin.com/in/angustan2001">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
     <br>
